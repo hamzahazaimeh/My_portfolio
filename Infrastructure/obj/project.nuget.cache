@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LIr+hRcURamytit7R5fR6SQ30/3JsTK39XKV2/5JdPGoE6xHvUgAceq05Cetw3S5aG+K633/qNCAXTD07/PROg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andallah\\source\\repos\\hamzahazaimeh\\My_portfolio\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andallah\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\andallah\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
